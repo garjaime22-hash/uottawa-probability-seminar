@@ -10,10 +10,10 @@
 */
 
 window.SEMINAR_DATA = {
-  name: "uOttawa Probability Seminar",
+  name: "uOttawa Young Researchers in Probability Seminar",
   season: "Fall 2026",
   description:
-    "A weekly seminar for graduate students, postdoctoral researchers, and faculty interested in probability and stochastic processes.",
+    "",
 
   meeting: {
     frequency: "Wednesdays, September 16–December 2",
