@@ -45,6 +45,12 @@ window.SEMINAR_DATA = {
     //   title: "Talk title",
     //   abstract: "Optional abstract",
     // },
-    talks: [],
+    talks: [{
+       date: "2026-09-16",
+       speaker: "Jaime Garza",
+       affiliation: "University of Ottawa",
+       title: "Phase Transitions in Infinite Urn Schemes",
+       abstract: "TBD",
+    }],
   },
 };
