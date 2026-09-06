@@ -2,7 +2,6 @@
   THIS IS THE ONLY FILE YOU NEED TO EDIT.
 
   1. Change the meeting details below.
-  2. Paste the Google Sheet signup link into signupUrl.
   3. Add speakers inside the talks list by copying the example shown there.
 
   Keep quotation marks around all text. The editing guide in EDITING-GUIDE.md
@@ -26,8 +25,8 @@ window.SEMINAR_DATA = {
     email: "jgarza@uottawa.ca",
   },
 
-  // Paste the full Google Sheet URL between the quotation marks.
-  signupUrl: "",
+ 
+  
 
   schedule: {
     // The site creates one slot every 7 days between these two dates.
