@@ -10,10 +10,10 @@
 */
 
 window.SEMINAR_DATA = {
-  name: "uOttawa Young Researchers in Probability Seminar",
+  name: "Young Researchers in Probability",
   season: "Fall 2026",
   description:
-    "",
+    "A weekly seminar for graduate students, postdoctoral researchers, and faculty interested in probability.",
 
   meeting: {
     frequency: "Wednesdays, September 16–December 2",
@@ -28,9 +28,6 @@ window.SEMINAR_DATA = {
 
   // Paste the full Google Sheet URL between the quotation marks.
   signupUrl: "",
-
-  announcement:
-    "The Fall 2026 schedule is open. Speakers may leave the title or abstract blank when signing up.",
 
   schedule: {
     // The site creates one slot every 7 days between these two dates.

@@ -1,8 +1,8 @@
-# Editing the uOttawa Probability Seminar site
+# Editing the Young Researchers in Probability site
 
-You only need to edit **`docs/site-data.js`**. The rest of the files control the design.
+You only need to edit **`site-data.js`**. The rest of the files control the design.
 
-On GitHub, open `docs/site-data.js`, click the pencil icon, make your change, and press **Commit changes**. GitHub will update the website automatically.
+On GitHub, open `site-data.js`, click the pencil icon, make your change, and press **Commit changes**. GitHub will update the website automatically.
 
 ## Change the weekly details
 

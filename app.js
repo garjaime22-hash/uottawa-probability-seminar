@@ -219,7 +219,6 @@
     setText("meeting-frequency", data.meeting.frequency);
     setText("meeting-time", data.meeting.time);
     setText("meeting-location", data.meeting.location);
-    setText("announcement-text", data.announcement);
     setText("footer-title", data.name);
 
     const slots = buildSchedule();
