@@ -49,8 +49,7 @@ window.SEMINAR_DATA = {
        speaker: "Jaime Garza",
        affiliation: "University of Ottawa",
        title: "A Phase Transition for Infinite Occupancy Schemes",
-       abstract: "The infinite occupancy scheme is a classical model in probability in which balls are placed into an infinite collection of urns. I will begin by reviewing some key developments in the study of this model and its connections with other combinatorial stochastic processes. I will then present joint work with Yizao Wang showing that the occupancy counts exhibit a second-order phase transition.
-",
+       abstract: "The infinite occupancy scheme is a classical model in probability in which balls are placed into an infinite collection of urns. I will begin by reviewing some key developments in the study of this model and its connections with other combinatorial stochastic processes. I will then present joint work with Yizao Wang showing that the occupancy counts exhibit a second-order phase transition.",
     }],
   },
 };
