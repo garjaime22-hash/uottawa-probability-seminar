@@ -50,6 +50,12 @@ window.SEMINAR_DATA = {
        affiliation: "University of Ottawa",
        title: "A Phase Transition for Infinite Occupancy Schemes",
        abstract: "The infinite occupancy scheme is a classical model in probability in which balls are placed into an infinite collection of urns. I will begin by reviewing some key developments in the study of this model and its connections with other combinatorial stochastic processes. I will then present joint work with Yizao Wang showing that the occupancy counts exhibit a second-order phase transition.",
-    }],
+    },{
+       date: "2026-09-23",
+       speaker: "Jinxin Wang",
+       affiliation: "University of Ottawa",
+       title: "Functional CLT for KPZ equation with narrow wedge initial data",
+       abstract: "The Kardar–Parisi–Zhang (KPZ) equation is a fundamental model for surface growth. I will begin by introducing the equation and its connection with the stochastic heat equation via the Cole–Hopf transform. Building on a recent finite-dimensional convergence result, I will then discuss our ongoing work on establishing tightness to obtain a functional central limit theorem for spatial averages of the KPZ solution with narrow wedge initial data.",
+     }],
   },
 };
