@@ -57,7 +57,7 @@ window.SEMINAR_DATA = {
        title: "Functional CLT for KPZ equation with narrow wedge initial data",
        abstract: "The Kardar–Parisi–Zhang (KPZ) equation is a fundamental model for surface growth. I will begin by introducing the equation and its connection with the stochastic heat equation via the Cole–Hopf transform. Building on a recent finite-dimensional convergence result, I will then discuss our ongoing work on establishing tightness to obtain a functional central limit theorem for spatial averages of the KPZ solution with narrow wedge initial data.",
      },{
-       date: "2026-10-7",
+       date: "2026-10-07",
        speaker: "William Stephenson",
        affiliation: "University of Ottawa",
        title: "Solutions to the parabolic Anderson model on an open domain",
