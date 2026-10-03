@@ -56,6 +56,13 @@ window.SEMINAR_DATA = {
        affiliation: "University of Ottawa",
        title: "Functional CLT for KPZ equation with narrow wedge initial data",
        abstract: "The Kardar–Parisi–Zhang (KPZ) equation is a fundamental model for surface growth. I will begin by introducing the equation and its connection with the stochastic heat equation via the Cole–Hopf transform. Building on a recent finite-dimensional convergence result, I will then discuss our ongoing work on establishing tightness to obtain a functional central limit theorem for spatial averages of the KPZ solution with narrow wedge initial data.",
-     }],
+     },{
+       date: "2026-10-7",
+       speaker: "William Stephenson",
+       affiliation: "University of Ottawa",
+       title: "Solutions to the parabolic Anderson model on an open domain",
+       abstract: "We study the parabolic Anderson model on an arbitrary open domain D of $\mathbb{R}^d$ driven by an isonormal Gaussian process which is fractional in time. We show that existence of a mild solution on the full space can be transferred to the corresponding equation on D with Dirichlet boundary conditions. This is done by approximating the solution with fields that admit a Feynman--Kac representation. ",
+     }
+           ],
   },
 };
