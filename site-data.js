@@ -62,6 +62,12 @@ window.SEMINAR_DATA = {
        affiliation: "University of Ottawa",
        title: "Solutions to the parabolic Anderson model on an open domain",
        abstract: "We study the parabolic Anderson model on an arbitrary open domain D of $\mathbb{R}^d$ driven by an isonormal Gaussian process which is fractional in time. We show that existence of a mild solution on the full space can be transferred to the corresponding equation on D with Dirichlet boundary conditions. This is done by approximating the solution with fields that admit a Feynman--Kac representation. ",
+     },{
+       date: "2026-10-21",
+       speaker: "Joe Ghafari",
+       affiliation: "",
+       title: "",
+       abstract: "",
      }
            ],
   },
