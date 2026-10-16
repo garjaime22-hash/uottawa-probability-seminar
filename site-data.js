@@ -66,7 +66,7 @@ window.SEMINAR_DATA = {
        date: "2026-10-21",
        speaker: "Joe Ghafari",
        affiliation: "",
-       title: "",
+       title: "The stochastic Cahn–Hilliard equation: from classical to singular dimensions",
        abstract: "We study the stochastic Cahn–Hilliard equation driven by space–time white noise on the d-dimensional torus, ∂ₜf + Δ²f = Δ(f³ − f) + ξ. In dimension 4, we construct the necessary renormalized stochastic objects and apply a Da Prato–Debussche decomposition to obtain local existence and uniqueness of solutions in Besov–Hölder spaces. In dimension 5, the Da Prato–Debussche decomposition alone is no longer sufficient, since ill-defined resonant products remain. We therefore introduce a further decomposition and use paracontrolled distributions, commutator estimates, and additional renormalized stochastic objects to formulate a well-defined deterministic fixed-point problem. The presentation highlights the transition from the classical regime to the singular dimensions and explains how renormalization, Besov-space estimates, and increasingly refined decompositions lead to local well-posedness throughout the full subcritical range d ≤ 5.",
      }
            ],
